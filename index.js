@@ -1,9 +1,6 @@
 import Cl_estudiante from "./Cl_estudiante.js";
 import Cl_becado from "./Cl_becado.js";
 
-let est1 = new Cl_estudiante("Mary", 132, 8);
-let est2 = new Cl_estudiante("Alirio", 315, 35);
-
 let beca1 = new Cl_becado("Mary", 132, 8);
 let beca2 = new Cl_becado("Alirio", 315, 35);
 
